@@ -1,0 +1,8 @@
+1. Lo aprendido durante el desarrollo del proyecto:
+Durante el desarrollo de este proyecto se consolidaron los conceptos fundamentales de programación en Java 8, destacando el uso de estructuras de datos como HashMap para el almacenamiento y la vinculación de información maestra y transaccional. Asimismo, se profundizó en la lectura y escritura eficiente de archivos planos mediante la API de Java, el manejo estructurado de excepciones y la aplicación de buenas prácticas de programación, nomenclatura y documentación en Eclipse.
+
+2. Posibles aplicaciones en su vida profesional de las destrezas y conocimientos adquiridos:
+Las destrezas adquiridas son altamente aplicables en el entorno profesional para la automatización de procesos de negocio, la auditoría, consolidación y generación automatizada de reportes gerenciales a partir de múltiples fuentes de datos distribuidas en archivos planos, permitiendo diseñar soluciones robustas que minimicen los errores operativos y faciliten la toma de decisiones empresariales.
+
+3. Las dificultades presentadas durante el desarrollo del proyecto:
+Entre las principales dificultades se encontró la sincronización y el recorrido del directorio local para la lectura dinámica de los múltiples archivos independientes por vendedor. También representó un reto importante estructurar los algoritmos de ordenamiento de listas de manera descendente para los reportes consolidados de recaudos y cantidades, lo cual se resolvió de forma exitosa aplicando comparadores y buenas prácticas de lógica de programación.
